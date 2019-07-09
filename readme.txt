@@ -1,1 +1,1 @@
-Just start our AIOps£¡
+Let's start our AIOps project!
